@@ -33,7 +33,7 @@ const Header = ({ siteTitle }) => (
               <MailSVG />
             </a>
 
-            <a href="https://www.instagram.com/">
+            <a href="https://www.securityheaven.ml/">
               <InstagramSVG />
             </a>
 
