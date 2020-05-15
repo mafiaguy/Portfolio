@@ -29,7 +29,7 @@ const Header = ({ siteTitle }) => (
       
       
       <div className="icons-container">
-            <a href="mailto:someone@yoursite.com">
+            <a href="iamsiddhanthdwivedi@gmail.com">
               <MailSVG />
             </a>
 
@@ -37,11 +37,11 @@ const Header = ({ siteTitle }) => (
               <InstagramSVG />
             </a>
 
-            <a href="https://www.linkedin.com/">
+            <a href="https://www.linkedin.com/in/mafiaguy">
               <LinkedInSVG />
             </a>
 
-            <a href="https://github.com/">
+            <a href="https://github.com/mafiaguy">
               <GithubSVG />
             </a>
       </div>
