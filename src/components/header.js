@@ -29,7 +29,7 @@ const Header = ({ siteTitle }) => (
       
       
       <div className="icons-container">
-            <a href="iamsiddhanthdwivedi@gmail.com">
+            <a href="mailto:iamsiddhanthdwivedi@gmail.com">
               <MailSVG />
             </a>
 
